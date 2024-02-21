@@ -1,0 +1,17 @@
+header{
+    text-align: center;
+    background-color: indianred;
+}
+
+h3{
+    text-decoration-line: underline;
+}
+
+h4{
+    margin-left: 25px;
+    font-style: italic;
+}
+
+p{
+    margin-left: 50px;
+}
