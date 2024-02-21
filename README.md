@@ -1,1 +1,2 @@
-# E-commerce-App using Python
+# E-commerce-App
+Tech Stack: Python
