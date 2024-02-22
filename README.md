@@ -1,7 +1,7 @@
 # E-commerce-App
 Tech Stack: Python
 
-# E-commerce App Python Implementation
+# Overview
 # Introduction:
 The Python-based e-commerce application serves as a demonstration of a simple yet functional online shopping platform. It allows users to browse through a catalog of products, add items to their cart, and proceed with the checkout process. Additionally, it provides administrative functionalities for managing the product catalog.
 
